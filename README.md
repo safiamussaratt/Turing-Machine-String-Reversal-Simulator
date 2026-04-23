@@ -32,7 +32,7 @@ The machine uses 'X' as a marker for processed characters and appends reversed c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/safiamussaratt/Turing-Machine-String-Reversal-Simulatorl.git
+git clone https://github.com/safiamussaratt/Turing-Machine-String-Reversal-Simulator.git
 cd Turing-Machine-String-Reversal-Simulator
 ```
 
